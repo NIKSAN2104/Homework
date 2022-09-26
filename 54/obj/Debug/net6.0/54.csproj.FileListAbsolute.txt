@@ -1,0 +1,15 @@
+/Users/katty_san/Desktop/Education/C#/Project 1/Homework/54/bin/Debug/net6.0/54
+/Users/katty_san/Desktop/Education/C#/Project 1/Homework/54/bin/Debug/net6.0/54.deps.json
+/Users/katty_san/Desktop/Education/C#/Project 1/Homework/54/bin/Debug/net6.0/54.runtimeconfig.json
+/Users/katty_san/Desktop/Education/C#/Project 1/Homework/54/bin/Debug/net6.0/54.dll
+/Users/katty_san/Desktop/Education/C#/Project 1/Homework/54/bin/Debug/net6.0/54.pdb
+/Users/katty_san/Desktop/Education/C#/Project 1/Homework/54/obj/Debug/net6.0/54.csproj.AssemblyReference.cache
+/Users/katty_san/Desktop/Education/C#/Project 1/Homework/54/obj/Debug/net6.0/54.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katty_san/Desktop/Education/C#/Project 1/Homework/54/obj/Debug/net6.0/54.AssemblyInfoInputs.cache
+/Users/katty_san/Desktop/Education/C#/Project 1/Homework/54/obj/Debug/net6.0/54.AssemblyInfo.cs
+/Users/katty_san/Desktop/Education/C#/Project 1/Homework/54/obj/Debug/net6.0/54.csproj.CoreCompileInputs.cache
+/Users/katty_san/Desktop/Education/C#/Project 1/Homework/54/obj/Debug/net6.0/54.dll
+/Users/katty_san/Desktop/Education/C#/Project 1/Homework/54/obj/Debug/net6.0/refint/54.dll
+/Users/katty_san/Desktop/Education/C#/Project 1/Homework/54/obj/Debug/net6.0/54.pdb
+/Users/katty_san/Desktop/Education/C#/Project 1/Homework/54/obj/Debug/net6.0/54.genruntimeconfig.cache
+/Users/katty_san/Desktop/Education/C#/Project 1/Homework/54/obj/Debug/net6.0/ref/54.dll
